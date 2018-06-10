@@ -5,7 +5,7 @@ Time series info
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 https://www.bistasolutions.com/resources/blogs/5-statistical-methods-for-forecasting-quantitative-time-series/
 
-## Papers: 
+## Relevant Papers: 
 
 Electricity price forecasting: A review of the state-of-the-art
 with a look into the future : http://www.ceem-dauphine.org/assets/dropbox/R._Weron_Electricity_price_forecasting_2014_.pdf
